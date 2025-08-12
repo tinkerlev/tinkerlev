@@ -225,8 +225,6 @@ class AttackerMindset:
   <p style="color: #FFFFFF;">⭐ Building tools that matter to the security community</p>
 </div>
 
-<!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=tinkerlev&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF" alt="GitHub Streak" onerror="this.style.display='none'"/>
 
 <!-- Alternative Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tinkerlev&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF" alt="GitHub Streak Alt" onerror="this.style.display='none'"/>
@@ -234,8 +232,6 @@ class AttackerMindset:
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinkerlev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" alt="Top Languages" onerror="this.style.display='none'"/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=tinkerlev&bg_color=0D1117&color=00F5FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" onerror="this.style.display='none'"/>
 
 </div>
 
