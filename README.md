@@ -4,17 +4,25 @@
 
 ![Matrix Rain Animation](https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif)
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&height=100&lines=🔐+ELITE+CYBERSECURITY+EXPERT;🤖+AI+SECURITY+PIONEER;⚡+OFFENSIVE+SECURITY+DEVELOPER;🛡️+DIGITAL+FORTRESS+ARCHITECT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&height=100&lines=🔐+ELITE+CYBERSECURITY+EXPERT;🤖+AI+SECURITY+PIONEER;⚡+OFFENSIVE+SECURITY+DEVELOPER;🛡️+DIGITAL+FORTRESS+ARCHITECT" alt="Typing SVG" />
+
+<!-- Backup animated text in case the above doesn't work -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  🔐 ELITE CYBERSECURITY EXPERT
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<h2 align="center">🤖 AI SECURITY PIONEER • ⚡ OFFENSIVE SECURITY DEVELOPER • 🛡️ DIGITAL FORTRESS ARCHITECT</h2>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ### 『 🎯 The Guardian of Digital Realms 』
 **💀 I don't just break systems — I forge unbreakable defenses**
 
-[![Website](https://img.shields.io/badge/🌐_SecurePulses-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000)](https://securepulses.com)
+[![Website](https://img.shields.io/badge/🌐_luai.io-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000)](https://luai.io)
 [![AI Scanner](https://img.shields.io/badge/🤖_luai.io-4ECDC4?style=for-the-badge&logo=openai&logoColor=white&labelColor=000)](https://luai.io)
-[![Contact](https://img.shields.io/badge/📧_luai@pm.me-45B7D1?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=000)](mailto:luai@pm.me)
-[![LinkedIn](https://img.shields.io/badge/💼_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://linkedin.com/in/eliran-deeb)
+[![Contact](https://img.shields.io/badge/📧_luaideeb@gmail.com-45B7D1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000)](mailto:luaideeb@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://linkedin.com/in/loai-deeb)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
@@ -31,7 +39,7 @@ class EliteCyberWarrior:
     def __init__(self):
         self.name = "Eliran Loai Deeb (tinkerlev)"
         self.role = "🛡️ Cybersecurity Mastermind"
-        self.location = "🇮🇱 Israel"
+        self.location = "🇦🇷 Argentina"
         self.mindset = "🧠 Attacker | 🛡️ Defender | 🔬 Researcher"
         
     def get_mission(self):
@@ -86,7 +94,7 @@ const luai = {
 - 📊 **Smart Severity Scoring** - Risk-based prioritization
 - 🔗 **Seamless Integration** - Fits any development workflow
 
-### 🛡️ **SecurePulses.com** - Elite Security Fortress
+### 🛡️ **luai.io** - Elite Security Fortress
 <img align="left" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
 
 > **"Where Enterprises Come When Failure Isn't an Option"**
@@ -184,7 +192,7 @@ class AttackerMindset:
 
 ### 🔥 **ACTIVE MISSIONS:**
 - 🤖 **luai.io Evolution**: Scaling AI-powered security globally
-- 🛡️ **SecurePulses Expansion**: Elite consulting worldwide  
+- 🛡️ **luai.io Expansion**: Elite consulting worldwide  
 - 🔬 **Zero-Day Research**: Finding tomorrow's vulnerabilities today
 - ⚛️ **Quantum Security**: Post-quantum cryptography preparation
 
@@ -200,13 +208,36 @@ class AttackerMindset:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tinkerlev&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" alt="GitHub Stats"/>
+<!-- GitHub Stats with multiple fallback options -->
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tinkerlev&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF" alt="GitHub Streak"/>
+<!-- Primary GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=tinkerlev&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" alt="GitHub Stats" onerror="this.style.display='none'"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinkerlev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" alt="Top Languages"/>
+<!-- Alternative GitHub Stats -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tinkerlev&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" alt="GitHub Stats Alt" onerror="this.style.display='none'"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tinkerlev&bg_color=0D1117&color=00F5FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+<!-- Fallback if both fail -->
+<div style="background: linear-gradient(45deg, #0D1117, #1a1b27); padding: 20px; border-radius: 10px; margin: 10px;">
+  <h3 style="color: #00F5FF;">📊 GitHub Activity</h3>
+  <p style="color: #FFFFFF;">🚀 Active developer with consistent contributions</p>
+  <p style="color: #FFFFFF;">🔥 Multiple repositories focused on cybersecurity</p>
+  <p style="color: #FFFFFF;">⭐ Building tools that matter to the security community</p>
+</div>
+
+<!-- GitHub Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=tinkerlev&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF" alt="GitHub Streak" onerror="this.style.display='none'"/>
+
+<!-- Alternative Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tinkerlev&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF" alt="GitHub Streak Alt" onerror="this.style.display='none'"/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinkerlev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" alt="Top Languages" onerror="this.style.display='none'"/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=tinkerlev&bg_color=0D1117&color=00F5FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" onerror="this.style.display='none'"/>
+
+</div>
 
 </div>
 
@@ -237,11 +268,11 @@ class AttackerMindset:
 
 ### 🚀 **Ready to Secure Your Digital Empire?**
 
-[![SecurePulses](https://img.shields.io/badge/🛡️_SecurePulses_Consulting-Visit_Fortress-FF6B6B?style=for-the-badge&logo=shield&logoColor=white)](https://securepulses.com)
+[![luai.io](https://img.shields.io/badge/🛡️_luai.io_Consulting-Visit_Fortress-FF6B6B?style=for-the-badge&logo=shield&logoColor=white)](https://luai.io)
 [![luai.io](https://img.shields.io/badge/🤖_luai.io_Scanner-Launch_AI-4ECDC4?style=for-the-badge&logo=robot&logoColor=white)](https://luai.io)
 
-[![Email](https://img.shields.io/badge/📧_luai@pm.me-Direct_Contact-45B7D1?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:luai@pm.me)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eliran-deeb)
+[![Email](https://img.shields.io/badge/📧_luaideeb@gmail.com-Direct_Contact-45B7D1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luaideeb@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/loai-deeb)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400"/>
 
@@ -258,6 +289,6 @@ class AttackerMindset:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-**© 2024 Eliran Loai Deeb • Elite Cybersecurity Specialist**
+**© 2025 Eliran Loai Deeb • Elite Cybersecurity Specialist**
 
 </div>
