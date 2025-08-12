@@ -211,9 +211,6 @@ class AttackerMindset:
 <!-- GitHub Stats with multiple fallback options -->
 <div align="center">
 
-<!-- Primary GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=tinkerlev&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" alt="GitHub Stats" onerror="this.style.display='none'"/>
-
 <!-- Alternative GitHub Stats -->
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tinkerlev&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" alt="GitHub Stats Alt" onerror="this.style.display='none'"/>
 
