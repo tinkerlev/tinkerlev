@@ -1,3 +1,4 @@
+<div align="center">
 # 🛡️ Eliran Loai Deeb • Elite Cybersecurity Specialist
 
 <div align="center">
