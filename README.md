@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Matrix Rain Animation](https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif)
+![Cyber Security Animation](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&height=100&lines=🔐+ELITE+CYBERSECURITY+EXPERT;🤖+AI+SECURITY+PIONEER;⚡+OFFENSIVE+SECURITY+DEVELOPER;🛡️+DIGITAL+FORTRESS+ARCHITECT" alt="Typing SVG" />
 
