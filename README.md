@@ -1,4 +1,4 @@
-# Eliran Loai Deeb • Elite Cybersecurity Specialist
+# Eliran Loai Deeb • Elite Cybersecurity and AI Specialist
 
 <div align="center">
 
