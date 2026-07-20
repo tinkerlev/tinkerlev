@@ -19,8 +19,6 @@
 ### 『 🎯 The Guardian of Digital Realms 』
 **💀 I don't just break systems — I forge unbreakable defenses**
 
-[![Website](https://img.shields.io/badge/🌐_luai.io-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000)](https://luai.io)
-[![AI Scanner](https://img.shields.io/badge/🤖_luai.io-4ECDC4?style=for-the-badge&logo=openai&logoColor=white&labelColor=000)](https://luai.io)
 [![Contact](https://img.shields.io/badge/📧_luaideeb@gmail.com-45B7D1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000)](mailto:luaideeb@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://linkedin.com/in/loai-deeb)
 
