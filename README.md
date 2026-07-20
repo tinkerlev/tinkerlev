@@ -37,7 +37,7 @@ class EliteCyberWarrior:
     def __init__(self):
         self.name = "Eliran Loai Deeb (tinkerlev)"
         self.role = "🛡️ Cybersecurity Mastermind"
-        self.location = "🇦🇷 Argentina"
+        self.location = "🇮🇱 Israel"
         self.mindset = "🧠 Attacker | 🛡️ Defender | 🔬 Researcher"
         
     def get_mission(self):
@@ -70,6 +70,26 @@ class EliteCyberWarrior:
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
+### 🧠 **AI Job Matcher & Scraper Agent** - Agentic Career Catalyst
+<img align="right" src="https://img.shields.io/badge/Google_Gemini-3.5_Flash-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" width="220"/>
+
+> **"Scale and Automate the Application Funnel"**
+
+```python
+const jobAgent = {
+    scraping: "🕵️ LinkedIn, Drushim, SQLink, Comeet, Lever",
+    matching_engine: "🧠 Gemini 3.5 Flash semantic analysis & scoring",
+    local_filter: "🛡️ Regex-based local pre-filter (saves tokens)",
+    outputs: "📊 Automated custom Cover Letters & Google Sheets log",
+    safety: "⏳ Polite 4s rate-limiter & automatic retry backoffs"
+};
+```
+
+**🤖 Key Innovation:**
+- ⚡ **Multi-Portal Scraping** - Harvests jobs globally and locally in real-time.
+- 📉 **Zero-Cost Filtering** - Keyword analysis pre-screens jobs to save LLM tokens.
+- ✍️ **Tailored Hebrew Pitching** - Generates high-impact cover letters matching resume skills.
+
 ### 🧠 **luai.io** - AI-Powered Vulnerability Hunter
 <img align="right" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/>
 
@@ -87,10 +107,9 @@ const luai = {
 ```
 
 **🛡️ Revolutionary Features:**
-- ⚡ **Lightning Analysis** - Scan entire codebases in seconds
-- 🧠 **AI-Enhanced Detection** - Beyond traditional SAST tools
-- 📊 **Smart Severity Scoring** - Risk-based prioritization
-- 🔗 **Seamless Integration** - Fits any development workflow
+- ⚡ **Lightning Analysis** - Scan entire codebases in seconds.
+- 🧠 **AI-Enhanced Detection** - Beyond traditional SAST tools.
+- 📊 **Smart Severity Scoring** - Risk-based prioritization.
 
 ### 🛡️ **luai.io** - Elite Security Fortress
 <img align="left" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
@@ -114,172 +133,23 @@ $ ./elite_security.sh --mode=unstoppable
 <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-b97c-3ef5943da5dd.gif" width="200">
 
 ### 🔥 **PENETRATION & RED TEAM**
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-Master-FF6633?style=flat-square&logo=burpsuite)
-![Metasploit](https://img.shields.io/badge/Metasploit-Expert-00D4AA?style=flat-square&logo=metasploit)
-![Nmap](https://img.shields.io/badge/Nmap-Ninja-4682B4?style=flat-square&logo=nmap)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-Automation-000000?style=flat-square&logo=owasp)
-![Custom](https://img.shields.io/badge/Custom_Exploits-Legendary-DC143C?style=flat-square&logo=hackaday)
 
-### 🤖 **AI & ADVANCED SECURITY**
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-Turbo-00A67E?style=flat-square&logo=openai)
-![LLM Security](https://img.shields.io/badge/LLM_Security-Pioneer-6366F1?style=flat-square&logo=ai)
-![AI Threats](https://img.shields.io/badge/AI_Threat_Modeling-Expert-FF4B4B?style=flat-square&logo=tensorflow)
-![AST](https://img.shields.io/badge/Static_Analysis-AI_Enhanced-9333EA?style=flat-square&logo=code)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white)](https://portswigger.net/burp)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-11191F?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+[![Nmap](https://img.shields.io/badge/Nmap-007F00?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
+[![Metasploit](https://img.shields.io/badge/Metasploit-1F2022?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
 
-### ⚡ **DEVELOPMENT & AUTOMATION**
-![Python](https://img.shields.io/badge/Python-Wizard-3776AB?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/React_19-Advanced-61DAFB?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178C6?style=flat-square&logo=typescript)
-![Flask](https://img.shields.io/badge/Flask-Master-000000?style=flat-square&logo=flask)
-![Redis](https://img.shields.io/badge/Redis-Lightning-DC382D?style=flat-square&logo=redis)
+### 🛡️ **DEFENSIVE & IT OPERATIONS**
 
-### ☁️ **CLOUD & INFRASTRUCTURE**
-![AWS](https://img.shields.io/badge/AWS-Security_Focus-232F3E?style=flat-square&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-SecDevOps-2496ED?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/K8s-Fortress-326CE5?style=flat-square&logo=kubernetes)
-![Vercel](https://img.shields.io/badge/Vercel-Expert-000000?style=flat-square&logo=vercel)
+[![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com/)
+[![Firewalls](https://img.shields.io/badge/Firewalls-Red-8B0000?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.fortinet.com/)
 
-</div>
+### 🐍 **DEVELOPMENT & AI**
 
----
-
-## 🧠 **THE ATTACKER'S MINDSET**
-
-<div align="center">
-<img src="https://media.giphy.com/media/l378bu6ZYmzS6nBrW/giphy.gif" width="300"/>
-</div>
-
-```python
-class AttackerMindset:
-    def __init__(self):
-        self.kill_chain = {
-            "🔍 Reconnaissance": "OSINT + Social Engineering + Technical Footprinting",
-            "⚡ Weaponization": "Custom Exploits + Zero-day + AI-Assisted Attacks", 
-            "📨 Delivery": "Spear Phishing + Watering Holes + Supply Chain",
-            "💥 Exploitation": "Memory Corruption + Logic Flaws + Auth Bypass",
-            "🔒 Persistence": "Rootkits + Backdoors + Credential Harvesting",
-            "📡 Command & Control": "Encrypted C2 + Domain Fronting + DNS Tunneling",
-            "📦 Exfiltration": "Steganography + Encrypted Archives + Low-and-Slow"
-        }
-    
-    def philosophy(self):
-        return "🎯 Think like the enemy — so you can sleep at night"
-```
-
----
-
-## 📊 **BATTLE STATISTICS**
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400"/>
-
-| 🎯 **PENETRATION TESTS** | 🔍 **VULNERABILITIES FOUND** | 💼 **COMPANIES PROTECTED** | 🛡️ **INCIDENTS PREVENTED** |
-|:---:|:---:|:---:|:---:|
-| **150+** | **2,847** | **87** | **∞** |
-
-> *"The attacks you prevent don't make headlines"*
-
-</div>
-
----
-
-## 🚀 **CURRENT OPERATIONS**
-
-<img align="right" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="250"/>
-
-### 🔥 **ACTIVE MISSIONS:**
-- 🤖 **luai.io Evolution**: Scaling AI-powered security globally
-- 🛡️ **luai.io Expansion**: Elite consulting worldwide  
-- 🔬 **Zero-Day Research**: Finding tomorrow's vulnerabilities today
-- ⚛️ **Quantum Security**: Post-quantum cryptography preparation
-
-### 🧠 **LEARNING EDGE:**
-- 🚀 Advanced ML Adversarial Attacks
-- 🔐 Quantum-Resistant Cryptography 
-- ☁️ Cloud-Native Security Patterns
-- 🎭 Next-Gen Social Engineering
-
----
-
-## 📈 **GITHUB DOMINATION**
-
-<div align="center">
-
-<!-- GitHub Stats with multiple fallback options -->
-<div align="center">
-
-<!-- Alternative GitHub Stats -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tinkerlev&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" alt="GitHub Stats Alt" onerror="this.style.display='none'"/>
-
-<!-- Fallback if both fail -->
-<div style="background: linear-gradient(45deg, #0D1117, #1a1b27); padding: 20px; border-radius: 10px; margin: 10px;">
-  <h3 style="color: #00F5FF;">📊 GitHub Activity</h3>
-  <p style="color: #FFFFFF;">🚀 Active developer with consistent contributions</p>
-  <p style="color: #FFFFFF;">🔥 Multiple repositories focused on cybersecurity</p>
-  <p style="color: #FFFFFF;">⭐ Building tools that matter to the security community</p>
-</div>
-
-
-<!-- Alternative Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tinkerlev&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF" alt="GitHub Streak Alt" onerror="this.style.display='none'"/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinkerlev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" alt="Top Languages" onerror="this.style.display='none'"/>
-
-
-</div>
-
-</div>
-
----
-
-## 🎯 **EXPERTISE MATRIX**
-
-<div align="center">
-
-| 🛡️ **DOMAIN** | ⚡ **CAPABILITY** | 🎯 **IMPACT** |
-|:---|:---|:---|
-| 🔍 **Penetration Testing** | Web, API, Infrastructure, Mobile — Full-spectrum attack simulation | Find vulnerabilities before attackers do |
-| 🧬 **AI-Enhanced Security** | LLM prompt injections, adversarial ML, AI threat modeling | Secure the AI revolution |
-| 🛡️ **Red Team Operations** | APT simulation, social engineering, physical security testing | Test real-world defense capabilities |
-| ⚙️ **Security Tool Development** | Custom exploits, automated scanners, CLI utilities | Build solutions that don't exist yet |
-| 📊 **Vulnerability Research** | Zero-day hunting, CVE analysis, exploit chaining | Stay ahead of the threat landscape |
-| 🏗️ **Secure Architecture** | Threat modeling, secure SDLC, DevSecOps integration | Build security from the ground up |
-
-</div>
-
----
-
-## 🎪 **CONNECT WITH THE LEGEND**
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c38.gif" width="300"/>
-
-### 🚀 **Ready to Secure Your Digital Empire?**
-
-[![luai.io](https://img.shields.io/badge/🛡️_luai.io_Consulting-Visit_Fortress-FF6B6B?style=for-the-badge&logo=shield&logoColor=white)](https://luai.io)
-[![luai.io](https://img.shields.io/badge/🤖_luai.io_Scanner-Launch_AI-4ECDC4?style=for-the-badge&logo=robot&logoColor=white)](https://luai.io)
-
-[![Email](https://img.shields.io/badge/📧_luaideeb@gmail.com-Direct_Contact-45B7D1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luaideeb@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/loai-deeb)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🛡️ **"Security isn't a product — it's a mindset"**
-**Building the future where innovation thrives without fear**
-
-<img src="https://komarev.com/ghpvc/?username=tinkerlev&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-**© 2025 Eliran Loai Deeb • Elite Cybersecurity Specialist**
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
 
 </div>
